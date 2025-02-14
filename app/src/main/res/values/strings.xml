@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Practica5Armenta</string>
+    <string name="welcome_text">Welcome to the Portales!</string>
+    <string name="welcome_description">Taqueria Los Portales is a quick, casual restaurant!</string>
+    <string name="button_start">Get started!</string>
+
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="terms">I have read and accept the terms and conditions of the Portales</string>
+    <string name="sign_in">Sign in</string>
 </resources>
