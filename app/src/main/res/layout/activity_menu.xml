@@ -85,7 +85,7 @@
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
             android:paddingVertical="@dimen/menu_buttons_text"
-            android:text="@string/antojitos"
+            android:text="@string/sopas"
             android:textColor="@color/white" />
 
         <Button
@@ -96,7 +96,7 @@
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
             android:paddingVertical="@dimen/menu_buttons_text"
-            android:text="@string/antojitos"
+            android:text="@string/drinks"
             android:textColor="@color/white" />
 
 
