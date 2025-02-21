@@ -109,6 +109,34 @@ class ProductosActivity : AppCompatActivity() {
                 menu.add(Product("Torta Regular",R.drawable.torta, "\n" +
                         "All tortas come with lettuce, onions, tomatoes, avocado, sour cream, " +
                         "jalapeno pepper and your choice of meat.",12.99))
+                menu.add(Product("Torta - Milanesa de Res o Pollo ",R.drawable.tortamilanesa, "\n" +
+                        "Breaded Steak or Chicken",13.99))
+                menu.add(Product("Torta Cubana",R.drawable.tortacubana, "\n" +
+                        "Chorizo, asada, jamon, pastor y queso Mexican sausage, steak, marinated pork, ham, and cheese",13.99))
+                menu.add(Product("Torta Mixta",R.drawable.tortamixta, "\n" +
+                        "Chorizo, asada y pastor./ Mexican sausage, steak and marinated pork.",13.99))
+                menu.add(Product("Small Mexican Torta",R.drawable.smallmexican, "\n" +
+                        "Bolillo bread sandwich with your of meat, shredded lettuce, avocado, tomato, onion and sour cream.",13.99))
+            }
+            "Sopas"->{
+                menu.add(Product("Pozole",R.drawable.pozole, "\n" +
+                        "Weekends only",5.99))
+                menu.add(Product("Menudo",R.drawable.menudo, "\n" +
+                        "Wednesday to Sunday",5.99))
+                menu.add(Product("Caldo de Res",R.drawable.caldores, "\n" +
+                        "Wednesday to Sunday",5.99))
+                menu.add(Product("Caldo de Camarón",R.drawable.caldocamaron, "\n" +
+                        "Shrimp soup",13.99))
+                menu.add(Product("Caldo de Mariscos",R.drawable.sopamariscos, "\n" +
+                        "Seafood soup",13.99))
+            }
+            "Drinks"->{
+                menu.add(Product("Soft Drinks 20 oz",R.drawable.sodas, "\n" +
+                        "",2.99))
+                menu.add(Product("Jarritos",R.drawable.jarritos, "\n" +
+                        "",2.75))
+                menu.add(Product("Aguas Frescas",R.drawable.drinks, "\n" +
+                        "",2.99))
             }
         }
     }
